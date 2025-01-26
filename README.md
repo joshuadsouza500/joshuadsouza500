@@ -3,7 +3,7 @@
 **joshuadsouza500/joshuadsouza500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<h1 align="center">Hi 👋, I'm Joshua</h1>
+<h1 align="center">Hi 👋, My name Joshua</h1>
 <h3 align="center">A web developer with a passion for crafting seamless and engaging user-friendly applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
