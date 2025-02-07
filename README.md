@@ -55,4 +55,4 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuadsouza500&" alt="joshuadsouza500" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joshuadsouza500)](https://git.io/streak-stats)
